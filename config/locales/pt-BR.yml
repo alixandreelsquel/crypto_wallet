@@ -1,0 +1,23 @@
+pt-BR:
+  current_locale: Português do Brasil
+  welcome: Seja Bem-Vindo!
+  messages:
+    welcome: Essa é sua carteira digital. É um app para você cadastrar e acompanhar as suas moedas digitais.
+    menu: "Para começar selecione uma das opções abaixo:"
+    confirm: Tem certeza?
+  links:
+    edit: Editar
+    show: Mostrar
+    delete: Apagar
+    back: Voltar
+    new: Novo
+  new:
+    coin: Nova Moeda
+    mining_type: Novo Tipo de Mineração
+  editing:
+    coin: Editando Moeda
+    mining_type: Editando Tipo de Mineração
+  showing:
+    coin: Mostrando Moeda
+    mining_type: Mostrando Tipo de Mineração
+    
